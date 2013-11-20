@@ -1,4 +1,4 @@
-# Streaming Small Responses with Python
+# Streaming Small HTTP Responses with Python
 
 Client/server code for streaming HTTP responses.
 
